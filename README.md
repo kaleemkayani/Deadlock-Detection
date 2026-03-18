@@ -1,2 +1,2 @@
-# Deadlock-Detection
-Deadlock Detection Simulater Project and Components Diagram
+# Deadlock-Detection_Simulator
+Deadlock Detection Simulator Project and Components Diagram
